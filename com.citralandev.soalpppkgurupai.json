@@ -3,7 +3,7 @@
 
 // untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
 // pastikan mode offline mp3 true jika merubah ke mode mp3
-// WebView kemenag v24j16 - aris
+// WebView kemenag v24j16 - arisks
 
 "HOMEURL" : "https://aris-cpnspai.blogspot.com/p/menu.html",
 
@@ -63,7 +63,7 @@
 "APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917c",
 "APPLOVIN_INTERSTITIAL_MAX_ID" : "4711e1718612d7dc",
 
-"BUTTON_START" : "SOAL CPNS",
+"BUTTON_START" : "SOAL PPPK PAI",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
 "BUTTON_RATING" : "RATING NOW",
 
