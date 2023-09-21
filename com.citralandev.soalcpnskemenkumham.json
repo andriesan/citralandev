@@ -5,7 +5,7 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // v24j16 -aris  kemenkumham
 
-"HOMEURL" : "https://aris-kemenkumham.blogspot.com/p/menu.html",
+"HOMEURL" : "https://aris-kemenkumham.blogspot.com/p/sitemenu.html",
 
 // testing server json yang dipakai
 "JSON_POPUP_WAIT" : "Server Ready . . .Done",
